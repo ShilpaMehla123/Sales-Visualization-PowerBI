@@ -54,7 +54,7 @@ Top 5 Sales Managers:
 3. **Tahir** – \~\$5M
 4. **Shabir** – \~\$3.5M
 5. **Rizwan** – \~\$0.2M
-### 6. **Which customer segments are contributing the most to our revenue?**
+### 6. **Which customer segments are contributing the most to our revenue**
 
 Customer Type (Sum of Sale %):
 
@@ -64,7 +64,7 @@ Customer Type (Sum of Sale %):
 * **Groceries & Shops** – 2.14% (lowest)
 
 **Top segment:** **Supermarkets**
-### 7. **Which products are our top sellers and which ones are underperforming?**
+### 7. **Which products are our top sellers and which ones are underperforming**
 
 **Top-selling Products:**
 
@@ -81,7 +81,7 @@ Customer Type (Sum of Sale %):
 
 **Observation:** Downward trend over the years.
    
-### 9. **How do sales trends shift when we look at specific countries or teams?**
+### 9. **How do sales trends shift when we look at specific countries or teams**
 
 #### By Country (Sum of Sale):
 
