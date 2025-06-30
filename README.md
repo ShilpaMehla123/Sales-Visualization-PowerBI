@@ -3,6 +3,8 @@
 The project aims to evaluate sales performance across customers, products, regions, and teams to uncover growth opportunities and improve strategic decision-making.
 ## Data used:
 [Data - Sales.xlsx](https://github.com/user-attachments/files/20826197/Data.-.Sales.xlsx)
+## Tool
+Power BI
 ## Questions:
 1. Total sales amount, Profit?
 2. How many unique customers have we served so far?
