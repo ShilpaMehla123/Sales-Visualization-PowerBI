@@ -16,11 +16,15 @@ Power BI
 8. How has our sales growth or dropped year by year?
 9. How do sales trends shift when we look at specific countries or teams?
 ## Process:
-- Clean data  concerning data type, data format, and values used.
-- Create new columns, do calculations, and apply functions.
--  Use different charts and cards for better visualization.
--  Formatting.
--  Use drill, Tooltips features.
+### Data Cleaning & Transformation:
+- Standardized data types and corrected data formats for consistency.
+- Cleaned and validated values to ensure data accuracy.
+- Created new calculated columns and measures using DAX for deeper analysis.
+- Applied various Power BI functions to transform and enrich the dataset.
+### Data Visualization & Design:
+- Utilized diverse chart types (e.g., bar, line, pie, map) and KPI cards to present key insights.
+- Applied consistent formatting (colors, labels, number formats) to improve readability and user experience.
+- Integrated drill-down and tooltip features to enable interactive and dynamic data exploration.
  ## Dashboard:
   ![Sales Analysis](https://github.com/user-attachments/assets/0084b7cd-9d15-4b6d-8421-639a808da194)
   
